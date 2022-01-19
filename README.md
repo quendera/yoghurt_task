@@ -1,1 +1,3 @@
-# yoghurt_task
+# Yoghurt Task
+
+repo for the NPU yoghurt task prototype
